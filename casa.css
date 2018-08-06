@@ -1,0 +1,86 @@
+*{
+	border: 0;
+	margin: 0;
+}
+.tela{
+	width: 100vw;
+	height: 100vh;
+	background: blue;
+	position: relative;
+}
+.casa{
+	width: 450px;
+	height: 400px;
+	background-color: red;
+	position: absolute;
+	top: 190px;
+	left: 100px;
+	right: 100px;
+}
+.porta{
+	width: 100px;
+	height: 130px;
+	background-color: yellow;
+	position: relative;
+	top: 417px;
+	left: 125px;
+}
+.janela{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	position: relative;
+	top: 250px;
+	left: 300px;
+}
+.telhado{
+	width: 455px;
+	height: 50px;
+	background-color: black;
+	position: relative;
+	top: -40px;
+	left: 95px;
+}
+.sol{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	background-color: yellow;
+	position: relative;
+	top: -250px;
+	left: 700px;
+	right: 100px;
+}
+.grama{
+	width: 100vw;
+	height: 130px;
+	background-color: green;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+.tronco{
+	width: 5px;
+	height: 150px;
+	background-color: gray;
+	position: relative;
+	top: 10%;
+	left: 50%;
+}
+.caixa{
+	width: 100px;
+	height: 70px;
+	background-color: yellow;
+	position: relative;
+	top: -20%;
+	left: 600px;
+}
+.piscina{
+	border-radius: 10%;
+	width: 400px;
+	height: 100px;
+	background-color: blue;
+	position: relative;
+	top: -12%;
+	left: 700px;
+}
